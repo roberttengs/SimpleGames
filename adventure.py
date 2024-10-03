@@ -1,4 +1,4 @@
-
+#kommentar
 
 def diamond_room():
     print("\nDu er i et rum fyldt med diamanter!")
